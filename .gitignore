@@ -32,8 +32,9 @@ env/
 *.swo
 
 # Dataset and model files
-CASIA/
-ESD/
+# *.wav
+# CASIA/
+# ESD/
 checkpoints/
 *.pth
 *.pt
